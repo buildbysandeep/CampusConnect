@@ -1,4 +1,4 @@
-# CampusConnect
+# CampusConnect - MVP Roadmap (in development)
 
 ### A private social and collaboration platform for colleges
 
